@@ -1,0 +1,19 @@
+{
+  "name": "coursera-angular",
+  "version": "1.0.0",
+  "description": "Coursera Angular course",
+  "main": "index.html",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/wlkrt0/coursera-angular.git"
+  },
+  "author": "Zachary Walker",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/wlkrt0/coursera-angular/issues"
+  },
+  "homepage": "https://github.com/wlkrt0/coursera-angular"
+}
